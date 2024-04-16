@@ -10,4 +10,4 @@ datasets==2.18.0
 
 accelerate==0.27.2
 
-视频课程:制作中.
+视频课程:https://www.bilibili.com/video/BV11E421u7MK
